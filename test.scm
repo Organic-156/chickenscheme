@@ -34,8 +34,6 @@
         '()
         (cons (f (car lst)) (map f (cdr lst))))
 
-
-
 ; (load "test.scm")
 (define (❤️)
     (print "I love functional programming."))
